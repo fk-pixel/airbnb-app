@@ -21,19 +21,19 @@ function Footer() {
 
             <div className="space-y-4 text-xs text-gray-800"> 
                 <h5 className="font-bold">HOST</h5>
-                <p>How Airbnb works</p>
-                <p>Newsroom</p>
-                <p>Investors</p>
-                <p>Airbnb Plus</p>
-                <p>Airbnb Luxe</p>
+                <p>Try hosting</p>
+                <p>AirCover: protection for Hosts</p>
+                <p>Explore hosting resources</p>
+                <p>Visit our community forum</p>
+                <p>How to host responsibly</p>
             </div>
             <div className="space-y-4 text-xs text-gray-800"> 
                 <h5 className="font-bold">SUPPORT</h5>
-                <p>How Airbnb works</p>
-                <p>Newsroom</p>
-                <p>Investors</p>
-                <p>Airbnb Plus</p>
-                <p>Airbnb Luxe</p>
+                <p>Help Centre</p>
+                <p>Safety information</p>
+                <p>Cancellation options</p>
+                <p>Our COVID-19 Response</p>
+                <p>Supporting people with disabilities</p>
             </div>
            
         </div>
